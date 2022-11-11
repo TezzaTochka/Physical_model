@@ -1,0 +1,2 @@
+C:\Users\rahma\source\repos\3DGravitation\x64\Debug\3DGravitation.exe
+C:\Users\mrtim\source\repos\3DGravitation\x64\Debug\3DGravitation.exe

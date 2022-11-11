@@ -1,0 +1,74 @@
+﻿  3DGravitation.cpp
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(30,16): warning C4101: y2: неиспользованная локальная переменная
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(29,16): warning C4101: x2: неиспользованная локальная переменная
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(161,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(161,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(243,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(243,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(244,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(244,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(249,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(249,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(250,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(250,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(295,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(295,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(296,72): warning C4244: аргумент: преобразование "long double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\mrtim\source\repos\3DGravitation\3DGravitation.cpp(296,55): warning C4244: аргумент: преобразование "long double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  3DGravitation.vcxproj -> C:\Users\mrtim\source\repos\3DGravitation\x64\Debug\3DGravitation.exe
